@@ -1,0 +1,17 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!114 &11400000
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: c3d72d7cc192cb34f836c691a4821a09, type: 3}
+  m_Name: Sounds
+  m_EditorClassIdentifier: 
+  buttonClick: {fileID: 8300000, guid: c088165b242513f499c0f580d20e0a49, type: 3}
+  elevatorArrived: {fileID: 8300000, guid: 4bb17054d74a52340baaf21c1726e355, type: 3}
+  elevatorRiding: {fileID: 8300000, guid: 1623ff9df3134474a8df53a8c75ea97a, type: 3}
